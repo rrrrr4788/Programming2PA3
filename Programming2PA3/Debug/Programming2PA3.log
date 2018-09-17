@@ -1,0 +1,7 @@
+﻿  PA3.cpp
+c:\users\aaa\source\repos\programming2pa3\programming2pa3\pa3.cpp(160): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaa\source\repos\programming2pa3\programming2pa3\pa3.cpp(165): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaa\source\repos\programming2pa3\programming2pa3\pa3.cpp(186): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaa\source\repos\programming2pa3\programming2pa3\pa3.cpp(350): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaa\source\repos\programming2pa3\programming2pa3\pa3.cpp(370): warning C4018: '<': signed/unsigned mismatch
+  Programming2PA3.vcxproj -> C:\Users\aaa\source\repos\Programming2PA3\Debug\Programming2PA3.exe
